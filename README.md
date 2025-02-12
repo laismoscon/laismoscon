@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Laís Moscon, <strong>apaixonada por tecnologia e inovação</strong>.<br>
-  Sou formada em Publicidade e Propaganda (2010 / PUC-Campinas), com MBA em Trends & Innovation (2013 / ESAMC) e cursando SI na Faculdade Barretos (6/8). Focada em unir comunicação e tecnologia para soluções inovadoras!<br>
+  Sou formada em Publicidade e Propaganda (2010 / PUC-Campinas), com MBA em Trends & Innovation (2013 / ESAMC) e cursando SI na Faculdade Barretos (7/8). Focada em unir comunicação e tecnologia para soluções inovadoras!<br>
 </p>
 
 <p align="left">
