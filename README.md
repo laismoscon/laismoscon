@@ -1,33 +1,29 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+# Olá, eu sou a Laís Moscon 👋
 
-<p align="left"> 
-  Laís Moscon, <strong>apaixonada por tecnologia e inovação</strong>.<br>
-  Sou formada em Publicidade e Propaganda (2010 / PUC-Campinas), com MBA em Trends & Innovation (2013 / ESAMC) e cursando SI na Faculdade Barretos (7/8). Focada em unir comunicação e tecnologia para soluções inovadoras!<br>
-</p>
+**Comunicação, tecnologia e inovação para resolver problemas reais.**
 
-<p align="left">
-  🦄 Linguagens: **HTML, CSS, JavaScript, Python e C#.**
-</p>
+Sou publicitária há mais de 15 anos, especialista em Tendências e Inovação e bacharel em Sistemas de Informação. Minha trajetória une a visão de comunicação à construção de soluções digitais.
 
-<p align="left">
-  💼 Ferramentas: **VSCode, FIGMA, Photoshop e Illustrator.**
-</p>
+## Formação
 
-<p align="left">
-  💌 Entre em contato comigo: ⤵️
-</p>
+- Publicidade e Propaganda — PUC-Campinas (2010).
+- MBA em Trends & Innovation — ESAMC (2013).
+- Bacharelado em Sistemas de Informação — UniBarretos.
 
-<p align="left">
-  <a href="mailto:laismoscon@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/laismoscon/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/laismosc/" title="Facebook">
-    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/lais_lm/" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+## Tecnologias e ferramentas
+
+- **Desenvolvimento:** HTML, CSS, JavaScript, Python e C#.
+- **Design e criação:** Figma, Photoshop e Illustrator.
+- **Editor:** Visual Studio Code.
+
+## Projetos públicos
+
+### [EletroCheck — Landing page](https://github.com/laismoscon/eletrocheck-landing)
+Página web construída com HTML, CSS e JavaScript, com publicação pelo GitHub Pages. Um projeto que aproxima comunicação visual e desenvolvimento web.
+
+### [Web scraping — Laís e Thaissa](https://github.com/laismoscon/scrapping-lais-e-thaissa)
+Projeto acadêmico em PHP e CSS, com coleta de dados e atualização automática por GitHub Actions.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/laismoscon/) · [E-mail](mailto:laismoscon@gmail.com) · [Instagram](https://www.instagram.com/lais_lm/) · [Facebook](https://www.facebook.com/laismosc/)
